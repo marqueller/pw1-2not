@@ -1,0 +1,22 @@
+1- Resuma seu entedimento sobre o React js, o que é?
+
+É uma biblioteca de JavaScript de código aberto amplamente utilizada
+para criar interfaces de usuário (UI) em aplicativos da web. 
+
+2- Eleja 3 facilidades relacionadas ao seu trabalho de conclusão, caso
+não tenha definido, pesquise em fóruns fazendo relação com suas criações futuras
+
+Nosso objetivo em grupo, é criar um site de agendamento. Uma das primeiras facilidades
+podemos dividir a interface do seu site em componentes reutilizáveis. Por exemplo, você pode ter um componente
+para exibir o calendário de disponibilidade, outro para listar os serviços disponíveis e outro para o formulário de agendamento. Isso torna o código mais modular e mais fácil de entender e manter.
+
+Segunda React Router: O React Router é uma biblioteca que facilita a navegação entre diferentes páginas
+em um aplicativo React. Isso é útil para criar uma experiência de usuário de navegação suave em um site de agendamento, permitindo que os usuários 
+visualizem diferentes seções, como a página inicial, a página de agendamento e a página de confirmação de agendamento.
+
+terceira React pode ser facilmente integrado com APIs externas para buscar e enviar dados. Isso é útil para conectar seu site de agendamento a um servidor onde as informações
+de disponibilidade, serviços oferecidos e agendamentos são armazenados.
+
+3- Com base no seu entendimento descreva a estrutura dos arquivos e componentes em um ambiente que utiliza React JS.
+
+Pasta src, index.js, App.js, Components ou Conteiners, Pages, Assets, Utils.
