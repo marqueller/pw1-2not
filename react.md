@@ -17,7 +17,7 @@ React.JS é uma biblioteca JavaScript baseado em componentes, o que facilita e a
 
 A estrutura de arquivos e componentes em um ambiente que utiliza o React JS pode variar dependendo das necessidades do projeto
 
-src: A pasta onde você mantém o código-fonte da sua aplicação, você pode encontrar várias subpastas:
+src: A pasta onde você mantém o código-fonte da sua aplicação, você pode encontrar várias subpastas
 
 components: Aqui ficam todos os componentes que estão sendo usados em todas página. Cada componente pode ter seu próprio arquivo .js e .css.
 
