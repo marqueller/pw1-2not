@@ -43,4 +43,3 @@ Components: Componentes reutilizáveis da interface.
 Partials: Parciais ou fragmentos menores de interface reutilizáveis.
 Styles: Arquivos de estilos, como CSS, SCSS, ou módulos CSS.
 Theme: Configurações de temas para estilização consistente da aplicação.
-
