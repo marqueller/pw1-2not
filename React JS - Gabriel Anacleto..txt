@@ -1,0 +1,46 @@
+1 - Resuma seu entendimento sobre o React js, o que é?
+R: Eu entendo como um programa que tem bibliotecas do JavaScript e que através dele, dá de criar interfaces em aplicativos/páginas web. (meu entendimento pessoal).
+
+2 - Eleja 3 facilidades relacionadas ao seu trabalho de conclusão, caso não tenha definido, pesquise em fóruns fazendo relação com suas criações futuras.
+Meu trabalho vai ser um sistema de coleta de PET, uma maquina que coleta garrafas PET e retribui o usuário de alguma forma... 
+Nesse meu trabalho acredito que poderia usar o React para fazer uma interface interativa com o usuário para que ele inicie a máquina e insira seu nome e CPF, depois outra interface onde ele colocaria qual o tamanho da garrafa. Depois outra interface funcionando como um contador e com um botão de finalizar. E, finalizando, a máquina imprime um comprovante com a quantidade de garrafas e seus tamanhos, junto com a recompensa que o usuário irá ter. (essa recompensa ainda não foi definido o que é hahahah).
+
+3- Com base no seu entendimento descreva a estrutura dos arquivos e componentes em um ambiente que utiliza React JS.
+
+Pelo que eu pesquisei no site TREINAWEB (https://www.treinaweb.com.br/blog/estrutura-de-pastas-e-arquivos-com-react). Temos esse modelo de estrutura como um dos mais comuns...
+
+src
+├───data
+│   ├───@types
+│   ├───contexts
+│   ├───hooks
+│   ├───reduces
+│   └───services
+├───pages
+│   └───home
+└───ui
+    ├───components
+    ├───partials
+    ├───styles
+    └───theme
+
+No caso tem uma pasta principal chamada "src" contendo dentro dela vários diretórios. Cada um desses diretórios tem documentos especificos para melhor organização no programa. 
+
+Usei o chatGPT para explicar resumidamente cada um desses diretórios que encontrei na estrutura acima na pesquisa que fiz no site TREINAWEB:
+
+Data:
+@types: Tipos de TypeScript para garantir a tipagem dos dados.
+Contexts: Contextos para gerenciamento de estado global.
+Hooks: Hooks personalizados para reutilização de lógica.
+Reducers: Redutores para gerenciamento de estado usando Redux, por exemplo.
+Services: Serviços para comunicação com APIs externas ou lógica de negócios.
+
+Pages:
+Home: Páginas específicas da aplicação, como a página inicial.
+
+UI:
+Components: Componentes reutilizáveis da interface.
+Partials: Parciais ou fragmentos menores de interface reutilizáveis.
+Styles: Arquivos de estilos, como CSS, SCSS, ou módulos CSS.
+Theme: Configurações de temas para estilização consistente da aplicação.
+
