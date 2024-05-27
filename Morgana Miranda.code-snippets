@@ -1,0 +1,14 @@
+//Morgana Miranda 
+//
+//1-O React é um conjunto de códigos já elaborados que possui funções que ajudam a resolver alguns problemas, 
+//permitindo a construção de interfaces de usuário em JavaScript.
+//O React foi desenvolvido como uma solução do Facebook para lidar com o problema de sincronização dos componentes em sua página;
+//
+//2- A abordagem do React JS, onde envolve a criação de componentes autocontidos menores e mais simples.
+//cada componente tem sua própria lógica e controles, tornando-os independentes e reutilizáveis.
+//A reutilização do código, Uma vez que um componente é criado, ele pode ser reutilizado em qualquer parte da aplicação.
+//A comunidade React JS é ativa no desenvolvimento web. Isso significa que os desenvolvedores têm acesso de recursos de aprendizado, 
+//desde tutoriais e documentação detalhada até fóruns de discussão e conferências.
+//
+//3- React JS normalmente possui projeto com uma estrutura de diretórios que inclui "node_modules" para os pacotes do projeto,
+//"public" para arquivos estáticos e "src" para o código JavaScript da aplicação, que inclui os componentes React.
