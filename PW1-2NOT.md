@@ -1,0 +1,5 @@
+O React.js é uma biblioteca JavaScript para construir interfaces de usuário interativas e reutilizáveis em páginas web.
+
+Pelas pesquisas feitas o react js oferece facilidades cruciais para site de cadastro de perfis e serviços que eu e minha equipe queremos fazer. Tem o desenvolvimento ágil de UI, graças ao um tipo de criação rápida de componentes reutilizáveis, tem também o gerenciamento eficiente de estado, com ferramentas, para compartilhar dados entre componentes e otimização de performance que assim acaba garantindo uma experiência fluida mesmo em páginas.
+
+A estrutura de arquivos e componentes é organizada em um tipo de hierarquia e os componentes são guardados em uma pasta que cada um geralmente em seu próprio arquivo java ou type permitindo reutilização e manutenção simplificadas. E também tem uma pasta separada para as páginas, que junta componentes específicos de cada rota ou tela da aplicação.
